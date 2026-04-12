@@ -6,9 +6,12 @@
   "publisher": "celesth",
   "engines": { "vscode": "^1.85.0" },
   "categories": ["Themes"],
-  "keywords": ["hyprland", "material-you", "illogical-impulse", "end-4", "linux"],
   "activationEvents": ["onStartupFinished"],
   "main": "./src/extension.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Celesth/ii-themer.git"
+  },
   "contributes": {
     "commands": [
       {
