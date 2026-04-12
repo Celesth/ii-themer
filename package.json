@@ -2,7 +2,7 @@
   "name": "ii-theme",
   "displayName": "illogical-impulse Theme",
   "description": "Syncs VSCodium/VSCode color theme with end-4 dots-hyprland Material You colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "celesth",
   "engines": { "vscode": "^1.85.0" },
   "categories": ["Themes"],
