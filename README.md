@@ -1,3 +1,9 @@
+
+# EoD, Use The Matugen Extension From marketplace, my extension no longer works and keep crashing  :]
+
+
+
+
 # ii-theme — illogical-impulse VSCode/VSCodium Theme
 
 Syncs your editor color theme with [end-4's dots-hyprland](https://github.com/end-4/dots-hyprland) (illogical-impulse) Material You color system.
